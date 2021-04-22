@@ -39,4 +39,4 @@ BSD
 Author Information
 ------------------
 
-My linkedIn profile:- [link **text**](https://linkedin.com/in/niraj-kumar-)
+My linkedIn profile :- <https://linkedin.com/in/niraj-kumar->
